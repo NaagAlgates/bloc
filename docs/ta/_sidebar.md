@@ -41,7 +41,7 @@
     - [இன்டெல்லிஜே](blocintellijextension.md)
     - [வி.எஸ்.கோட்](blocvscodeextension.md)
 
-- API குறிப்பு
+- API குறிப்புகள்
   - [பிளாக்](https://pub.dev/documentation/bloc/latest/bloc/bloc-library.html)
   - [ஃப்ளட்டர்_பிளாக்](https://pub.dev/documentation/flutter_bloc/latest/flutter_bloc/flutter_bloc-library.html)
   - [அங்குலர்_பிளாக்](https://pub.dev/documentation/angular_bloc/latest/angular_dart/angular_dart-library.html)
