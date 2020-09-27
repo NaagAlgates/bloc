@@ -21,7 +21,7 @@
     - [வானிலை](flutterweathertutorial.md)
     - [செய்யவேண்டியவை](fluttertodostutorial.md)
     - [**ஃபயர்பேஸ் உள்நுழைத்தல்** <sup>✨</sup>](flutterfirebaselogintutorial.md)
-    - [ஃபயர்பேஸ் [செய்யவேண்டியவை](](flutterfirestoretodostutorial.md)
+    - [ஃபயர்பேஸ் செய்யவேண்டியவை](flutterfirestoretodostutorial.md)
   - அங்குலர்டார்ட்
     - [கடிகை](angularcountertutorial.md)
   - ஃப்ளட்டர் + அங்குலர்டார்ட்
