@@ -1,26 +1,26 @@
-# AngularDart Counter Tutorial
+# அங்குலர்டார்ட் கூட்டல் பயன்பாட்டின் பயிற்சி
 
-![beginner](https://img.shields.io/badge/level-beginner-green.svg)
+![தொடக்கநிலையினர்](https://img.shields.io/badge/level-beginner-green.svg)
 
-> In the following tutorial, we're going to build a Counter in AngularDart using the Bloc library.
+> பின்வரும் பயிற்சி, பிளாக் களஞ்சியத்தை பயன்படுத்தி அங்குலர்டார்ட்ல் ஒரு கூட்டல்  பயன்பாட்டினை உருவாக்க உள்ளோம்.
 
-![demo](./assets/gifs/angular_counter.gif)
+![செய்முறை](./assets/gifs/angular_counter.gif)
 
-## Setup
+## அமைப்பு
 
-We'll start off by creating a brand new AngularDart project with [stagehand](https://github.com/dart-lang/stagehand).
+[ஸ்டாஜெஹான்ட்](https://github.com/dart-lang/stagehand) உடன் ஒரு புத்தம்புதிய அங்குலர்டார்ட் திட்டத்தை உருவாக்க தொடங்குவோம்.
 
-[script](_snippets/angular_counter_tutorial/stagehand.sh.md ':include')
+[ஸ்கிரிப்ட்](_snippets/angular_counter_tutorial/stagehand.sh.md ':include')
 
-!> Activate stagehand by running `pub global activate stagehand`
+!> ஸ்டேஜ்ஹேண்டை செயல்படுத்த `pub global activate stagehand`
 
-We can then go ahead and replace the contents of `pubspec.yaml` with:
+நாம் அடுத்தாக `pubspec.yaml` இன் உள்ளடக்கங்களை கீழ்கண்டது போல் மாற்றலாம்:
 
 [pubspec.yaml](_snippets/angular_counter_tutorial/pubspec.yaml.md ':include')
 
-and then install all of our dependencies
+பின்னர் சார்புகல்  அனைத்தையும் நிறுவவும்
 
-[script](_snippets/angular_counter_tutorial/install.sh.md ':include')
+[ஸ்கிரிப்ட்](_snippets/angular_counter_tutorial/install.sh.md ':include')
 
 Our counter app is just going to have two buttons to increment/decrement the counter value and an element to display the current value. Let's get started designing the `CounterEvents`.
 
